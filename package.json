@@ -13,7 +13,7 @@
     "node"
   ],
   "devDependencies": {
-    "mathjax-full": "3.1.2"
+    "mathjax-full": "3.2.0"
   },
   "maintainers": [
     "MathJax Consortium <info@mathjax.org> (http://www.mathjax.org)"
